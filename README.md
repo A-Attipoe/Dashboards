@@ -5,15 +5,19 @@ This is a repository of some of my dashboards
 **Power BI**
 ### Introduction
 This report presents a comprehensive analysis of video game sales spanning the years 1980 to 2020. The analysis encompasses a significant volume of sales, totalling over **100,000 copies** worldwide.
-**Global Sales:** The aggregate global sales figure stands at an impressive **$8.82K**, showcasing the widespread appeal of video game entertainment across international markets.
-**Regional Distribution:**
+#### Global Sales:
+The aggregate global sales figure stands at an impressive **$8.82K**, showcasing the widespread appeal of video game entertainment across international markets.
+#### Regional Distribution:
 **Europe**: European sales contribute significantly to the overall market performance, totalling **$2.41K**.
 **Japan:** The Japanese market demonstrates its influence with sales reaching **$1.28K**, reflecting the popularity of video games within the region.
 **North America:** North America emerges as a key market, accounting for **$4.33K** in sales, highlighting the strong demand for gaming content in this region.
 **Other Regions**: Additionally, sales from other regions collectively amount to **$789.01**, underscoring the global reach and diverse consumer base of the video game industry.
-**Game Diversity**: A diverse array of over **11,000 games** has contributed to the overall sales volume. These games are categorized into 12 distinct genres, offering a wide range of gaming experiences to consumers.
-**Publisher Landscape:** The video game industry boasts a robust ecosystem of **577 publishers** actively contributing to the market. This diverse publisher base plays a crucial role in driving sales and shaping the industry landscape.
-**Platform Presence**: The video game market is supported by an extensive network of **31 platforms**, providing consumers with various channels to access and enjoy gaming content.
+#### Game Diversity:
+A diverse array of over **11,000 games** has contributed to the overall sales volume. These games are categorized into 12 distinct genres, offering a wide range of gaming experiences to consumers.
+#### Publisher Landscape:
+The video game industry boasts a robust ecosystem of **577 publishers** actively contributing to the market. This diverse publisher base plays a crucial role in driving sales and shaping the industry landscape.
+#### Platform Presence:
+The video game market is supported by an extensive network of **31 platforms**, providing consumers with various channels to access and enjoy gaming content.
 
 ### Key Findings:
 #### Global Sales by Genre:
