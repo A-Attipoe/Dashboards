@@ -4,16 +4,16 @@ This is a repository of some of my dashboards
 ## VIDEO GAME SALES ANALYSIS
 **Power BI**
 ### Introduction
-This report presents a comprehensive analysis of video game sales spanning the years 1980 to 2020. The analysis encompasses a significant volume of sales, totalling over 100,000 copies worldwide.
-Global Sales: The aggregate global sales figure stands at an impressive $8.82K, showcasing the widespread appeal of video game entertainment across international markets.
-Regional Distribution:
-Europe: European sales contribute significantly to the overall market performance, totalling $2.41K.
-Japan: The Japanese market demonstrates its influence with sales reaching $1.28K, reflecting the popularity of video games within the region.
-North America: North America emerges as a key market, accounting for $4.33K in sales, highlighting the strong demand for gaming content in this region.
-Other Regions: Additionally, sales from other regions collectively amount to $789.01, underscoring the global reach and diverse consumer base of the video game industry.
-Game Diversity: A diverse array of over 11,000 games has contributed to the overall sales volume. These games are categorized into 12 distinct genres, offering a wide range of gaming experiences to consumers.
-Publisher Landscape: The video game industry boasts a robust ecosystem of 577 publishers actively contributing to the market. This diverse publisher base plays a crucial role in driving sales and shaping the industry landscape.
-Platform Presence: The video game market is supported by an extensive network of 31 platforms, providing consumers with various channels to access and enjoy gaming content.
+This report presents a comprehensive analysis of video game sales spanning the years 1980 to 2020. The analysis encompasses a significant volume of sales, totalling over **100,000 copies** worldwide.
+**Global Sales:** The aggregate global sales figure stands at an impressive **$8.82K**, showcasing the widespread appeal of video game entertainment across international markets.
+**Regional Distribution:**
+**Europe**: European sales contribute significantly to the overall market performance, totalling **$2.41K**.
+**Japan:** The Japanese market demonstrates its influence with sales reaching **$1.28K**, reflecting the popularity of video games within the region.
+**North America:** North America emerges as a key market, accounting for **$4.33K** in sales, highlighting the strong demand for gaming content in this region.
+**Other Regions**: Additionally, sales from other regions collectively amount to **$789.01**, underscoring the global reach and diverse consumer base of the video game industry.
+**Game Diversity**: A diverse array of over **11,000 games** has contributed to the overall sales volume. These games are categorized into 12 distinct genres, offering a wide range of gaming experiences to consumers.
+**Publisher Landscape:** The video game industry boasts a robust ecosystem of **577 publishers** actively contributing to the market. This diverse publisher base plays a crucial role in driving sales and shaping the industry landscape.
+**Platform Presence**: The video game market is supported by an extensive network of **31 platforms**, providing consumers with various channels to access and enjoy gaming content.
 
 ### Key Findings:
 #### Global Sales by Genre:
@@ -39,7 +39,7 @@ Understanding these nuanced trends is imperative for stakeholders within the vid
 ## EDUCATIVE COURSE DATA REPORT ANALYSIS
 **Power BI**
 ### Project Description
-Educative, a prominent educational tech company, boasts an extensive catalogue of over 3,000 courses spanning four key subjects: Business Finance, Graphic Design, Musical Instruments, and Web Design. Offering both free and paid courses, Educative's diverse range of offerings has led to its popularity, with an impressive 12 million subscribers and 574,000 reviews. Notably, the platform accommodates courses across various difficulty levels, catering from Beginner to Expert. With an average course duration of 4 hours and an average price of GHC 66.00, Educative's robust business model has facilitated the creation of hundreds of thousands of courses, reflecting its commitment to accessible and diverse learning opportunities.
+Educative, a prominent educational tech company, boasts an extensive catalogue of over **3,000 courses** spanning **four key subjects: Business Finance, Graphic Design, Musical Instruments**, and **Web Design**. Offering both **free and paid courses**, Educative's diverse range of offerings has led to its popularity, with an impressive **12 million subscribers** and **574,000 reviews**. Notably, the platform accommodates courses across various difficulty levels, catering from **Beginner** to **Expert**. With an average course duration of **4 hours** and an average price of **GHC 66.00**, Educative's robust business model has facilitated the creation of hundreds of thousands of courses, reflecting its commitment to accessible and diverse learning opportunities.
 ### Business Problem
 The business problem we aim to address is optimizing subscriber engagement and course sales, specifically in Web Development through price increases.
 ### Design
@@ -76,24 +76,24 @@ In conclusion, the analysis of Educative's course data provides valuable insight
 Development indicators are measurable characteristics or variables used to assess the level of development or progress of a country, region, or community. These indicators provide insights into various aspects of socio-economic well-being and quality of life. They help policymakers, researchers, and organizations to understand the current state of development, track changes over time, and identify areas that require attention or improvement.
 In this analysis we will be focusing on three types of development indicators; economic, social and environmental across 5 continents and 162 countries in the year 1980. The data under scrutiny was collected during the months of May, June, and July.
 #### Economic development indicator
-Gross Domestic Product (GDP): GDP is a measure of the total monetary value of all goods and services produced within a country's borders within a specific time period, usually annually or quarterly. It is a key indicator of the economic health and size of a nation's economy. A higher GDP typically indicates a stronger economy with more wealth and resources available for its citizens.
+**Gross Domestic Product (GDP)**: GDP is a measure of the total monetary value of all goods and services produced within a country's borders within a specific time period, usually annually or quarterly. It is a key indicator of the economic health and size of a nation's economy. A higher GDP typically indicates a stronger economy with more wealth and resources available for its citizens.
 #### Social Development Indicator
-Life Expectancy: Life expectancy is the average number of years a person is expected to live based on current mortality rates. It is a crucial indicator of the overall health and well-being of a population. Higher life expectancy generally reflects better access to healthcare, nutrition, sanitation, and overall living conditions.
-Child Mortality Rate per 1000 Births: Child mortality rate, often expressed as the number of deaths of children under the age of five per 1,000 live births, is a measure of the number of children who die before reaching the age of five. It is a key indicator of the quality of healthcare, nutrition, sanitation, and socio-economic conditions in a country. Lower child mortality rates typically indicate better access to healthcare and improved living standards.
+**Life Expectancy:** Life expectancy is the average number of years a person is expected to live based on current mortality rates. It is a crucial indicator of the overall health and well-being of a population. Higher life expectancy generally reflects better access to healthcare, nutrition, sanitation, and overall living conditions.
+**Child Mortality Rate per 1000 Births:** Child mortality rate, often expressed as the number of deaths of children under the age of five per 1,000 live births, is a measure of the number of children who die before reaching the age of five. It is a key indicator of the quality of healthcare, nutrition, sanitation, and socio-economic conditions in a country. Lower child mortality rates typically indicate better access to healthcare and improved living standards.
 #### Environmental Development Indicator
-CO2 Emissions per person (Tonnes): CO2 emissions per person measures the amount of carbon dioxide (CO2) emitted per capita in a given area, usually measured in metric tons per person per year. It is an important indicator of a country's contribution to climate change and its environmental impact. Higher emissions per capita indicate greater reliance on fossil fuels and less sustainable development practices.
+**CO2 Emissions per person (Tonnes):** CO2 emissions per person measures the amount of carbon dioxide (CO2) emitted per capita in a given area, usually measured in metric tons per person per year. It is an important indicator of a country's contribution to climate change and its environmental impact. Higher emissions per capita indicate greater reliance on fossil fuels and less sustainable development practices.
  
 ### FINDINGS
 #### GDP per Capita Analysis:
-The top 5 countries with the highest GDP per capita, as depicted on the bar chart, include Qatar, United Arab Emirates, Kuwait, Luxembourg, and Saudi Arabia. Conversely, the countries with the lowest recorded GDP per capita, observed from the bar chart, are Ethiopia, Eritrea, Mozambique, Timor-Leste, and South Sudan.
+The **top 5** countries with the highest GDP per capita, as depicted on the bar chart, include **Qatar, United Arab Emirates, Kuwait, Luxembourg,** and **Saudi Arabia**. Conversely, the countries with the **lowest** recorded GDP per capita, observed from the bar chart, are **Ethiopia, Eritrea, Mozambique, Timor-Leste**, and **South Sudan**.
 #### Child Mortality Rate Analysis:
-Among the top 5 countries with the highest average child mortality rates are Mali, Niger, Sierra Leone, Guinea, and Burkina Faso. Conversely, Iceland, Sweden, Croatia, Slovenia, and Andorra demonstrate the least average child mortality rates.
+Among the **top 5** countries with the highest average child mortality rates are **Mali, Niger, Sierra Leone, Guinea,** and **Burkina Faso**. Conversely, **Iceland, Sweden, Croatia, Slovenia,** and **Andorra** demonstrate the **least average child mortality rates**.
 #### CO2 Emissions Observations:
-Reviewing the column chart, countries like Qatar, United Arab Emirates, Kuwait, Luxembourg, and Bahrain exhibit the highest CO2 emissions per person. Conversely, Mali, Timor-Leste, Chad, Burundi, and South Sudan rank lowest in CO2 emissions per person.
+Reviewing the column chart, countries like **Qatar, United Arab Emirates, Kuwait, Luxembourg,** and **Bahrain** exhibit the **highest CO2 emissions per person**. Conversely, **Mali, Timor-Leste, Chad, Burundi,** and **South Sudan** rank **lowest in CO2 emissions per person**.
 #### Average Life Expectancy Insights:
-Examining the map visualization, it's notable that overall average life expectancy among countries appears relatively consistent. However, Switzerland emerges with the highest life expectancy at 77 years, while Mali exhibits the lowest life expectancy at 47 years.
+Examining the map visualization, it's notable that overall average life expectancy among countries appears relatively consistent. However, **Switzerland** emerges with the **highest life expectancy** at **77 years**, while **Mali** exhibits the **lowest life expectancy** at **47 years**.
 #### Life Expectancy and Child Mortality Rate by Continent:
-As depicted by the line and column chart, a clear trend emerges: higher life expectancy corresponds with lower child mortality rates across the 5 continents. Notably, Europe demonstrates high life expectancy and low child mortality rates, while Africa exhibits the opposite pattern.
+As depicted by the line and column chart, a clear trend emerges: higher life expectancy corresponds with lower child mortality rates across the 5 continents. Notably, **Europe** demonstrates high life expectancy and low child mortality rates, while **Africa** exhibits the opposite pattern.
 #### Correlation Analysis:
 Scatter plots reveal interesting relationships:
 •	A positive relationship is evident between CO2 emissions and GDP per capita.
@@ -116,11 +116,12 @@ Overall, these analyses highlight the complexity of global development dynamics 
 
 ## ANALYSIS OF REAL ESTATE SALES IN THE USA (1999 - 2022)
 **Tableau**
+**Link:** https://public.tableau.com/views/ANALYSISOFREALESTATELISTINGSINTHEUSA1999-2022/Dashboard1
 ### Overview
- Total Listings: 1,018,190
- Total Sales: $401 billion
- Number of Towns: 170
- Property Types: Commercial, Single Family, Public Utility, Industrial, Apartments, Four Family, Three Family, Two Family, Vacant Land, Condo, Residential, and NA
+ **Total Listings:** 1,018,190
+ **Total Sales:** $401 billion
+ **Number of Towns:** 170
+ **Property Types:** Commercial, Single Family, Public Utility, Industrial, Apartments, Four Family, Three Family, Two Family, Vacant Land, Condo, Residential, and NA
 Residential Types: Condo, Four Family, Three Family, Two Family, Single Family, and NA
 
 ### Key Findings
@@ -132,10 +133,10 @@ Residential Types: Condo, Four Family, Three Family, Two Family, Single Family, 
    - Analysis indicates that **Single Family** homes have the highest average sales ratio among both property and residential types. This suggests that single-family homes are highly valued and sought after, likely due to their desirability for buyers looking for standalone residential units, which offer privacy and often come with land. The high sales ratio could also reflect the market’s strong demand for single-family homes compared to other property types.
 
 #### 3. Most Profitable Towns by Property Type
- Greenwich stands out as the most profitable town for residential listings. This profitability can be linked to Greenwich's reputation for upscale living, high-end properties, and affluent residents. Greenwich's strong real estate market likely benefits from its desirable location, excellent amenities, and quality of life, making it a lucrative area for real estate investments. This town’s high profitability underscores its significance as a prime location for both buyers and investors looking for high returns.
+ **Greenwich** stands out as the most profitable town for residential listings. This profitability can be linked to Greenwich's reputation for upscale living, high-end properties, and affluent residents. Greenwich's strong real estate market likely benefits from its desirable location, excellent amenities, and quality of life, making it a lucrative area for real estate investments. This town’s high profitability underscores its significance as a prime location for both buyers and investors looking for high returns.
 
 #### 4. Towns with the Highest Mean Assessed Value
-Greenwich not only tops the list for profitability but also for the highest average assessed property values, followed closely by **New Canaan**, **Darien**, and **Westport**. These towns are known for their luxurious properties, strong local economies, and high standards of living. The high assessed values in these towns indicate that properties are likely to command high market prices, reflecting the overall affluence and desirability of these locations. Such areas are often considered prime targets for real estate development and investment.
+**Greenwich** not only tops the list for profitability but also for the highest average assessed property values, followed closely by **New Canaan**, **Darien**, and **Westport**. These towns are known for their luxurious properties, strong local economies, and high standards of living. The high assessed values in these towns indicate that properties are likely to command high market prices, reflecting the overall affluence and desirability of these locations. Such areas are often considered prime targets for real estate development and investment.
 
 #### 5. Relationship Between Assessed Value and Sales Amount
    - The scatterplot analysis reveals a clear positive correlation between assessed property values and sales amounts. This trend indicates that properties with higher assessed values tend to sell for higher amounts, reinforcing the idea that more valuable properties (in terms of assessment) are perceived to be worth more in the market. This relationship can be useful for predicting sales prices based on assessed values, helping stakeholders make informed decisions regarding property investments and pricing strategies.
